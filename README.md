@@ -3,7 +3,8 @@
 ### 单细胞学习资料
 
 1. [剑桥大学课程Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html)
-2. https://github.com/quadbio/scRNAseq_analysis_vignette/blob/master/Tutorial.md
+2. https://github.com/quadbio/scRNAseq_analysis_vignette/blob/master/Tutorial.md R语言教程，很不错
+3. https://swaruplab.bio.uci.edu/tutorial/tutorial.html 暂时看着还不错
 4. [scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes)
 5. [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
