@@ -10,3 +10,11 @@
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染
+
+
+### R语言
+1. [Advanced R](https://adv-r.hadley.nz/)
+2. [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
+3. [R for Data Science](https://r4ds.had.co.nz/introduction.html)
+
+
