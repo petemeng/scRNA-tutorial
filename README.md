@@ -16,5 +16,6 @@
 1. [Advanced R](https://adv-r.hadley.nz/)
 2. [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 3. [R for Data Science](https://r4ds.had.co.nz/introduction.html)
+4. [R for Data Science第二版](https://r4ds.hadley.nz/)
 
 
